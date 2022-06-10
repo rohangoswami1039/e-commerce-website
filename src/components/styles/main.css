@@ -1,0 +1,100 @@
+.Title_bar{
+/* Rectangle 2554 */
+position: absolute;
+width: 1440px;
+height: 60px;
+left: 0px;
+top: 0px;
+background: #FFF3DB;
+}
+
+.Logo{
+/*   Logo 2 */
+position: absolute;
+width: 41px;
+height: 41px;
+left: 28px;
+top: 10px;
+align-items: center;
+justify-content: center;
+}
+/* Thirdweel */
+.logo_text{
+position: absolute;
+width: 267px;
+height: 40px;
+left: 84px;
+top: 11px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 39px;
+
+color: #56765F;
+
+}
+.home{
+/* Home */
+position: absolute;
+width: 80px;
+height: 29px;
+left: 854px;
+top: 15px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+color: #56765F;
+}
+.about_us{
+/* About Us */
+position: absolute;
+width: 118px;
+height: 29px;
+left: 978px;
+top: 15px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+color: #56765F;
+}
+.hiring {
+    /* Hiring */
+position: absolute;
+width: 80px;
+height: 29px;
+left: 1140px;
+top: 15px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+
+color: #56765F;
+
+
+}
+.contact_us{
+    /* Contact us */
+position: absolute;
+width: 137px;
+height: 29px;
+left: 1264px;
+top: 15px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+
+color: #56765F;
+
+
+}
